@@ -1,4 +1,4 @@
-<a href="https://github.com/aju001"><img src="https://fontmeme.com/permalink/211121/32108414fe61d225739702fe3b4c0784.png" alt="google-font" border="0"></a>
+<a href="https://github.com/wh173001"><img src="https://fontmeme.com/permalink/211121/32108414fe61d225739702fe3b4c0784.png" alt="google-font" border="0"></a>
 <div align="center">
 
 
@@ -9,17 +9,17 @@
     <p align="center">
     
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Ajuser+WA+Bot...;Created+by+Aju....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+wh173+WA+Bot...;Created+by+wh173....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
   
-<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-blue?&style=for-the-badge"></a>
+<a href="#"><img title="ADARSH_v2" src="https://img.shields.io/badge/-Ajuser-blue?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/aju001"><img title="aju" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/wh173001"><img title="wh173" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/aju001">aju</a> to make it public
+Project created by <a href="https://github.com/wh173001">aju</a> to make it public
     <br>
        | © |
         Reserved |
@@ -29,12 +29,12 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
 ----
 
   <p align="center">
-  <a href="https://github.com/aju001/Ajuser_v2 ">
-    <img src="https://img.shields.io/github/repo-size/aju001/Ajuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/wh173001/ADARSH_v2 ">
+    <img src="https://img.shields.io/github/repo-size/wh173001/ADARSH_v2?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/Ajuser?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/Ajuser_v2?color=grey&style=plastic"></a>
+<a href="https://github.com/wh173001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
+<a href="https://github.com/wh173001/ADARSH_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/wh173001/ADARSH?color=grey&style=plastic"></a>
+<a href="https://github.com/wh173001/ADARSG_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/wh173001/ADARSH_v2?color=grey&style=plastic"></a>
 <a href="https://github.com/aju001/Ajuser_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aju001/Ajuser_v2?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
 <h3 align="center">Contact Me:</h3>

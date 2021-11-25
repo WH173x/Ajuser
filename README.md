@@ -60,7 +60,7 @@ Project created by <a href="https://github.com/wh173001">aju</a> to make it publ
     
 ```
     
-Ajuser Userbot is Open Source software open to development. 
+Adarsh Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -81,9 +81,9 @@ the user is responsible.
 
   ### <u> Simple Method <u>
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuser-Qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@wh1730011/ADARSH-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/Ajuser)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wh173001/ADARSH)
      </div>
      [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
  
@@ -111,8 +111,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/aju001/Ajuser
-$ cd Ajuser
+$ git clone https://github.com/wh173001/ADARSH
+$ cd ADARSH
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -141,9 +141,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![aju](https://github.com/aju001.png?size=100)](https://github.com/aju001)
+  [![ADARSGH](https://github.com/wh173001.png?size=100)](https://github.com/ADARSH001)
 
-[aju](https://github.com/aju001)  
+[aju](https://github.com/ADARSH001)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
 
